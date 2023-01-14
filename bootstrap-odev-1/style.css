@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #E9ECEF;
+    font-family: 'PT Sans', sans-serif;
+}
+*{box-sizing: border-box;}
+.baslik{
+    margin-top: 100px;
+}
+ /* .urunhak:hover{
+    color: aqua;
+ } */
+ ul li{
+    margin-left: 50%;
+ }
+ #hak{
+   
+    height: 50px;
+    background-color:dodgerblue;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    margin-left: 50%;
+ }
+ #hak a{
+    color: whitesmoke;
+    text-decoration: none;
+ }
+ .urun{
+   color: purple;
+ }
+ .cardhead{
+   color: blueviolet;
+ }
+ .btn{
+   width: 25%;
+   height: 35px;
+ }
