@@ -1,0 +1,53 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+*{box-sizing: border-box;}
+nav{
+    border: 1px solid black;
+    
+}
+nav a img{
+    width: 150px;
+    height: 60px;
+    cursor: pointer;
+}
+form .fa-solid{
+    position: relative;
+    left: 11%;
+    
+}
+form input{
+    height: 30px;
+}
+
+
+ul{
+    list-style: none;
+   
+}
+ul li a{
+    color: black;
+}
+
+.stories img{
+    border: 2px solid rgba(212,68,92,255);
+    cursor: pointer;
+}
+.stor{
+    border: 1px solid rgba(230, 230, 230, 1);
+}
+.stories{
+    width: 90%;
+}
+.prof{
+    margin-left: 30px;
+}
+.profil{
+    width: 80%;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+}
+
